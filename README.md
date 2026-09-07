@@ -71,7 +71,6 @@ develop my technical expertise and grow in a professional environment.
 ---
 
 # 🚀 Projects
-
 ## 🍱 1. Feed the Need
 
 **Technology:** HTML | CSS | JavaScript
@@ -79,43 +78,42 @@ develop my technical expertise and grow in a professional environment.
 A responsive website developed to connect **food donors with people in
 need** through an easy-to-use platform.
 
+🔗 **[View Repository](YOUR-FEED-THE-NEED-REPOSITORY-LINK)**
+
 ### Key Features
 - 🍽️ Connects food donors with people in need
 - ♻️ Helps reduce food wastage
 - 📱 Responsive and user-friendly interface
 - 🔄 Streamlines food distribution
 
----
 
 ## ✈️ 2. Tourist Scheduler
 
 **Technology:** HTML | CSS | JavaScript
 
-A dynamic travel planning website designed to help users organize their
-travel itineraries efficiently.
+A dynamic travel planning website designed to help users organize
+their travel itineraries efficiently.
+
+🔗 **[View Repository](YOUR-TOURIST-SCHEDULER-REPOSITORY-LINK)**
 
 ### Key Features
 - 📍 Manage destinations
 - 🗓️ Organize schedules
 - 🎯 Manage travel activities
-- 📱 Simple and responsive design
-- 🧳 Improves travel planning experience
-
----
+- 📱 Responsive design
 
 ## 💧 3. Real-Time Groundwater Resource Evaluation Using DWLR Data
 
-A real-time groundwater monitoring system designed using **DWLR
-(Digital Water Level Recorder) data**.
+A real-time groundwater monitoring system designed using
+**DWLR (Digital Water Level Recorder) data**.
+
+🔗 **[View Repository](YOUR-GROUNDWATER-REPOSITORY-LINK)**
 
 ### Key Features
 - 💧 Real-time groundwater monitoring
 - 📊 Continuous water-level analysis
-- 🌱 Supports sustainable water management
-- 📈 Improves groundwater resource assessment
-- ⚡ Enhances monitoring efficiency
-
----
+- 🌱 Sustainable water management
+- 📈 Groundwater resource assessment
 
 # 💼 Internship Experience
 
