@@ -78,7 +78,7 @@ develop my technical expertise and grow in a professional environment.
 A responsive website developed to connect **food donors with people in
 need** through an easy-to-use platform.
 
-🔗 **[View Repository](YOUR-FEED-THE-NEED-REPOSITORY-LINK)**
+🔗 **[Feed-the-need](https://github.com/anushiyasivakumarv/Feed-the-need)**
 
 ### Key Features
 - 🍽️ Connects food donors with people in need
@@ -94,8 +94,6 @@ need** through an easy-to-use platform.
 A dynamic travel planning website designed to help users organize
 their travel itineraries efficiently.
 
-🔗 **[View Repository](YOUR-TOURIST-SCHEDULER-REPOSITORY-LINK)**
-
 ### Key Features
 - 📍 Manage destinations
 - 🗓️ Organize schedules
@@ -107,7 +105,7 @@ their travel itineraries efficiently.
 A real-time groundwater monitoring system designed using
 **DWLR (Digital Water Level Recorder) data**.
 
-🔗 **[View Repository](YOUR-GROUNDWATER-REPOSITORY-LINK)**
+🔗 **[realtime-groundwater-evaluation](https://github.com/anushiyasivakumarv/realtime-groundwater-evaluation)**
 
 ### Key Features
 - 💧 Real-time groundwater monitoring
